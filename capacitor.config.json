@@ -1,0 +1,13 @@
+{
+  "appId": "com.example.codeeditor",
+  "appName": "Code Editor",
+  "webDir": "www",
+  "plugins": {
+    "Filesystem": {
+      "requestPermissions": true
+    },
+    "Share": {
+      "requestPermissions": true
+    }
+  }
+}
